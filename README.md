@@ -19,9 +19,9 @@ To locally run or contribute to this project:
 
 Clone the repository:
 
-``bash
+```bash
 git clone https://github.com/VertigoVX/VertigoClothing.github.io.git
-
+```
 Open **index.html** in your web browser to view the website locally.
 
 ## Contributing
